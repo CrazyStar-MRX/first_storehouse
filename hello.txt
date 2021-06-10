@@ -1,0 +1,9 @@
+public class hello{
+
+	public statuic void main(String[] args){
+		
+		System.out.println("这是一个初始化文件:");
+		
+	}
+
+}
